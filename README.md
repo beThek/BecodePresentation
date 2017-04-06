@@ -1,5 +1,5 @@
 
-Inline-style: 
+ 
 ![alt text](http://register.becode.org/partners/images/SmallLogo.png "Logo Title Text 1")
 
 
