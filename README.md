@@ -8,7 +8,8 @@
 		
 ## Who are we?
 
-We are a passionate group of digital geeks that eat and breath code on a daily basis
+We are a passionate group of individuals that offer training within the digital domain, our target audience 
+are individuals that have been unemployed for 12 months or more.
 
 ##  Our Values
 	
