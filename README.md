@@ -1,10 +1,10 @@
 # Becode the Interactive Learning Experience 
 
 	 	[link] HTML(https://www.w3schools.com/tags/tag_area.asp)
-	 	[link]CSS http://www.css-tricks.com
-	 	[link]Javascript
-	 	[link]Jquery
-	 	[link]PHP
+	 	[link]CSS (http://www.css-tricks.com)
+	 	[link]Javascript (http://htmldog.com/guides/javascript/beginner/makingstuffhappen/)
+	 	[link]Jquery (http://www.jquery.com)
+	 	[link]PHP (http://www.homeandlearn.co.uk/php/php.html)
 
 ##  Our Values
 	
