@@ -5,10 +5,22 @@
 # Becode the Interactive Learning Experience 
 
 	 	1.[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
+		    * Markup
+		    * Content
+		    * Structure
+		    * Layout
 	 	2.[link]CSS (http://www.css-tricks.com)
+		    * Presentation
+		    * Style
+		    * Design
 	 	3.[link]Javascript (http://htmldog.com/guides/javascript/beginner/makingstuffhappen/)
+		    * Interactivity
 	 	4.[link]Jquery (http://www.jquery.com)
+		   * Framework
+		   * Library
 	 	5.[link]PHP (http://www.homeandlearn.co.uk/php/php.html)
+		     * Backend
+		     * Language
 		
 ## Who are we?
 
