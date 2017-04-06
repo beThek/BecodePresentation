@@ -12,7 +12,7 @@ We are a passionate group of individuals that offer training within the digital 
 are individuals that have been unemployed for 12 months or more. Our objective is to equip you with the essential
 skills enabling you to achieve employment and frontend/backend developer.
 
-##  Our Values
+###  Our Values
 	
 	We are a family oriented organisation that supports the digital sphere of
 	development and online presence. In no order of presence we value the following:
@@ -24,7 +24,7 @@ skills enabling you to achieve employment and frontend/backend developer.
         * algorithmic thinking
 	* Project orientation
 	
-### How are we different from Universities?
+#### How are we different from Universities?
 
 Colleges and Universities teach you theoretically, furthermore the exercises provided is not relevant to
 today's job market. We differentiate ourselves by testing your capabilities by practising with real world
