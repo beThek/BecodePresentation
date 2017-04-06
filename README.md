@@ -27,11 +27,20 @@ positive & confident, equipping you with the essential skills to achieve employm
 	    *Communication
 	    * Information Sharing
 	 * Open Mind
+	    * Listen
+	    * friendliness
+	    * Supportive
+	    * Teamwork
 	 *Respect
 	     * Flexible
 	     * Constructive
 	     * 
          * projects & Challenges
+	     * Loops
+	     * OOP
+	     * Arrays
+	     * Variables
+	     * Conditional Statements
         * algorithmic thinking
 	    *UML
 	    *problem Solving
