@@ -1,6 +1,6 @@
 # Becode the Interactive Learning Experience 
 
-	 	A [link]HTML(https://www.w3schools.com/tags/tag_area.asp)
+	 	[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
 	 	[link]CSS (http://www.css-tricks.com)
 	 	[link]Javascript (http://htmldog.com/guides/javascript/beginner/makingstuffhappen/)
 	 	[link]Jquery (http://www.jquery.com)
