@@ -1,3 +1,8 @@
+
+Inline-style: 
+![alt text](http://register.becode.org/partners/images/SmallLogo.png "Logo Title Text 1")
+
+
 # Becode the Interactive Learning Experience 
 
 	 	1.[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
