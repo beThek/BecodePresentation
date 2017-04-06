@@ -28,6 +28,6 @@ skills enabling you to achieve employment and frontend/backend developer.
 
 Colleges and Universities teach you theoretically, furthermore the exercises provided is not relevant to
 today's job market. We differentiate ourselves by testing your capabilities by practising with real world
-projects, our learning tecniques will permit you to be adaptable in today's current job market.
+projects, our learning techniques will permit you to be adaptable in today's current job market.
 	
     
