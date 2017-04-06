@@ -24,10 +24,17 @@ positive & confident, equipping you with the essential skills to achieve employm
 	development and online presence. In no order of presence we value the following:
       
 	* Collaboration
+	    *Communication
+	    * Information Sharing
 	 * Open Mind
-	* Respect
+	 *Respect
+	     * Flexible
+	     * Constructive
+	     * 
          * projects & Challenges
         * algorithmic thinking
+	    *UML
+	    *problem Solving
 	* Project orientation
 	
 #### How are we different from Universities?
