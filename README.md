@@ -1,10 +1,14 @@
 # Becode the Interactive Learning Experience 
 
-	 	[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
-	 	[link]CSS (http://www.css-tricks.com)
-	 	[link]Javascript (http://htmldog.com/guides/javascript/beginner/makingstuffhappen/)
-	 	[link]Jquery (http://www.jquery.com)
-	 	[link]PHP (http://www.homeandlearn.co.uk/php/php.html)
+	 	1.[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
+	 	2.[link]CSS (http://www.css-tricks.com)
+	 	3.[link]Javascript (http://htmldog.com/guides/javascript/beginner/makingstuffhappen/)
+	 	4.[link]Jquery (http://www.jquery.com)
+	 	5.[link]PHP (http://www.homeandlearn.co.uk/php/php.html)
+		
+## Who are we?
+
+We are a passionate group of digital geeks that eat and breath code on a daily basis
 
 ##  Our Values
 	
@@ -14,14 +18,14 @@
 	* Collaboration
 	 * Open Mind
 	* Respect
-         * projects
+         * projects & Challenges
         * algorithmic thinking
 	* Project orientation
 	
-### How are we different from Academic Learning?
+### How are we different from Universities?
 
 Colleges and Universities teach you theoretically, furthermore the exercises provided is not relevant to
-today's job market. We differentiate ourselves by testing your capabilities by parctising with real world
-projects.
+today's job market. We differentiate ourselves by testing your capabilities by practising with real world
+projects, our learning tecniques will permit you to be adaptable in today's current job market.
 	
     
