@@ -9,8 +9,8 @@
 ## Who are we?
 
 We are a passionate group of individuals that offer training within the digital domain, our target audience 
-are individuals that have been unemployed for 12 months or more. Our objective is to equip you with the essential
-skills enabling you to achieve employment and frontend/backend developer.
+are individuals that have been unemployed for 12 months or more. Our objective is to make you feel comfortable,
+positive & confident, equipping you with the essential skills enabling you to achieve employment and frontend/backend developer.
 
 ###  Our Values
 	
