@@ -16,4 +16,12 @@
 	* Respect
          * projects
         * algorithmic thinking
+	* Project orientation
+	
+### How are we different from Academic Learning?
+
+Colleges and Universities teach you theoretically, furthermore the exercises provided is not relevant to
+today's job market. We differentiate ourselves by testing your capabilities by parctising with real world
+projects.
+	
     
