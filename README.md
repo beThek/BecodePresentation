@@ -3,7 +3,7 @@
 
 # Becode the Interactive Learning Experience 
 
-	 	1.[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
+	 	1.[link](https://www.w3schools.com/tags/tag_area.asp)HTML
 		     Markup
 		    - Content
 		    - Structure
