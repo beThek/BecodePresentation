@@ -35,25 +35,25 @@ positive & confident, equipping you with the essential skills to achieve employm
 	We are a family oriented organisation that supports the digital sphere of
 	development and online presence. In no order of presence we value the following:
       
-	* __Collaboration__
+	* --Collaboration--
 	    *Communication
 	    * Information Sharing
-	 * __Open Mind__
+	 * --Open Mind--
 	    * Listen
 	    * friendliness
 	    * Supportive
 	    * Teamwork
-	 *__Respect__
+	 *--Respect--
 	     * Flexible
 	     * Constructive
 	     * 
-         * __projects & Challenges__
+         * --projects & Challenges--
 	     * Loops
 	     * OOP
 	     * Arrays
 	     * Variables
 	     * Conditional Statements
-        * __algorithmic thinking__
+        * --algorithmic thinking--
 	    *UML
 	    *problem Solving
 	* Project orientation
