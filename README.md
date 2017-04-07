@@ -4,8 +4,8 @@
 # Becode the Interactive Learning Experience 
 
 	 	1.[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
-		    - Markup
-		    - Content
+		    ..* Markup
+		     Content
 		    - Structure
 		    - Layout
 	 	2.[link]CSS (http://www.css-tricks.com)
