@@ -28,7 +28,6 @@ are individuals that have been unemployed for 12 months or more. Our objective i
 positive & confident, equipping you with the essential skills to achieve employment as a frontend/backend developer.
 
 ![alt text](https://media.giphy.com/media/H0Oh2r1YOJLGw/giphy.gif "text")
-![alt text](http://media3.giphy.com/media/kEKcOWl8RMLde/giphy.gif)
 
 ###  Our Values
 	
