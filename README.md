@@ -34,7 +34,7 @@ positive & confident, equipping you with the essential skills to achieve employm
 	We are a family oriented organisation that supports the digital sphere of
 	development and online presence. In no order of presence we value the following:
       
-	* **Collaboration**
+	* Collaboration
 	    *Communication
 	    * Information Sharing
 	 * --Open Mind--
