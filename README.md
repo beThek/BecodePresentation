@@ -1,7 +1,6 @@
 ![alt text](http://register.becode.org/partners/images/SmallLogo.png "Logo Title Text 1")
 <figcaption> Anything is possible, the mind is limitless </figcaption>
 
-
 # Becode the Interactive Learning Experience 
 
 	 	1.[link]HTML(https://www.w3schools.com/tags/tag_area.asp)
@@ -26,7 +25,7 @@
 
 We are a passionate group of individuals that offer training within the digital domain, our target audience 
 are individuals that have been unemployed for 12 months or more. Our objective is to make you feel comfortable,
-positive & confident, equipping you with the essential skills to achieve employment as a frontend/backend developer.
+positive & confident, equipping you with the essential skills to achieve employment as a frontend/backend --developer--.
 
 ![alt text] (https://media.giphy.com/media/H0Oh2r1YOJLGw/giphy. "text")
 
